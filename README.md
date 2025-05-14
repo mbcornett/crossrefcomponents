@@ -1,2 +1,1 @@
-# crossrefcomponents
-AI-powered electronic component cross reference
+# CrossRefComponents Full Project
